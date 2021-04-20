@@ -5,10 +5,9 @@
 <h1>checking if updates are going</h1>
 
 
-
 <html>
     <head>
-        <title>CA Devops assignment/title>
+        <title>JSP Form Demo</title>
         <style type="text/css">
             label{ margin-right:20px;}
             input{ margin-top:5px;}
