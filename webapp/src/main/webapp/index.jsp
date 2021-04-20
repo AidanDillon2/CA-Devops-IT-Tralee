@@ -7,7 +7,7 @@
 
 <html>
     <head>
-        <title>JSP Form Demo</title>
+        <title>Coninuous assessment project for Devops IT Tralee</title>
         <style type="text/css">
             label{ margin-right:20px;}
             input{ margin-top:5px;}
@@ -16,7 +16,7 @@
     <body>
         <form action="handleUserInfo.jsp" method="post">
             <fieldset>
-                <legend>User Information</legend>
+                <legend>Enter User Information</legend>
                 <label for="fistName">First Name</label>
                 <input type="text" name="firstName" /> <br/>
                 <label for="lastName">Last Name</label>
