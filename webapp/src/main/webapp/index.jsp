@@ -7,11 +7,12 @@
 
 <html>
     <head>
-        <title>JSP Form Demo</title>
+        <title>CA devops IT Tralee</title>
         <style type="text/css">
             label{ margin-right:20px;}
             input{ margin-top:5px;}
         </style>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     </head>
     <body style="background-color: lightblue;">
         <form action="handleUserInfo.jsp" method="post">
@@ -26,5 +27,6 @@
                 <input type="submit" value="submit">
             </fieldset>
         </form>
+        <i class="material-icons">cloud</i>
     </body>
 </html>
