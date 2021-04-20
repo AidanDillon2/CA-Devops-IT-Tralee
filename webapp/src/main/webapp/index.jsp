@@ -12,8 +12,6 @@
             label{ margin-right:20px;}
             input{ margin-top:5px;}
         </style>
-        <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     </head>
     <body style="background-color: lightblue;">
         <form action="handleUserInfo.jsp" method="post">
