@@ -13,7 +13,7 @@
             input{ margin-top:5px;}
         </style>
     </head>
-    <body>
+    <body background="Munster_Technological_University_Logo,_2021.jpg">
         <form action="handleUserInfo.jsp" method="post">
             <fieldset>
                 <legend>User Information</legend>
