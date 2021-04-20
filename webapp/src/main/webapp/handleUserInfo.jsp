@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>JSP Form Demo</title>
+        <title>CA Devops project</title>
     </head>
     <body>
         <%
@@ -9,6 +9,7 @@
             String email = request.getParameter("email");
         %>
         <p>Hi <%=firstName%> <%=lastName%>!, 
-your submitted email is <%=email%>.</p>
+your are registered with the following email: <%=email%>.</p>
+        <p>Thank you for submitting your details, you are now registered.</p>
     </body>
 </html>
