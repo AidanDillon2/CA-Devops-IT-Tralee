@@ -24,16 +24,10 @@
                 <label for="lastName">Last Name</label>
                 <input type="text" name="lastName" /> <br/>
                 <label for="email">Email</label>
-                <input type="text" name="email" /> <i class="material-icons">attachment</i> <br/>
+                <input type="text" name="email" /> <i class="glyphicon glyphicon-envelope"></i> <br/>
                 <input type="submit" value="submit">
             </fieldset>
         </form>
         <i class="material-icons">cloud</i>
-<i class="material-icons">favorite</i>
-
-<i class="material-icons">computer</i>
-<i class="material-icons">traffic</i>
-<i class="glyphicon glyphicon-cloud"></i>
-<i class="glyphicon glyphicon-envelope"></i>
     </body>
 </html>
