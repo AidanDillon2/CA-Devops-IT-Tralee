@@ -8,9 +8,9 @@
             String lastName = request.getParameter("lastName");
             String email = request.getParameter("email");
         %>
-        <h1> Hello, this is Aidan Dillon's CI\CD continous assignment work!  </h1>
-        <p>Hi <%=firstName%> <%=lastName%>!, 
-your are registered with the following email: <%=email%>.</p>
-        <p>Thank you for submitting your details, you are now registered.</p>
+        <h1> Continuous Assement project for Devops module  - IT Tralee! </h1>
+        <h2>Hi <%=firstName%> <%=lastName%>!, 
+your are registered with the following email: <%=email%>.</h2>
+        <h3>Thank you for submitting your details, have a good day.</h3>
     </body>
 </html>
