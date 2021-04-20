@@ -13,7 +13,7 @@
             input{ margin-top:5px;}
         </style>
     </head>
-    <body style="background-color: gray;">
+    <body style="background-color:lightblue">
         <form action="handleUserInfo.jsp" method="post">
             <fieldset>
                 <legend>User Information</legend>
