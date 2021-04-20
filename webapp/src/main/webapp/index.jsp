@@ -28,6 +28,5 @@
                 <input type="submit" value="submit">
             </fieldset>
         </form>
-        <i class="material-icons">cloud</i>
     </body>
 </html>
