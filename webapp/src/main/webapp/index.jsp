@@ -1,8 +1,8 @@
-<h1> Hello, this is Aidan Dillon's CI\CD continous assignment work!  </h1>
-<h2> This is a validation test app of process </h2>
+<h1> Continuous assessment project for Devops module - IT Tralee\Munster Technological University.   </h1>
+<h2> This is a validation of the CI\CD process using a simple web form.</h2>
 
-<h1>Deploying app in docker container from Ansible playbook server webhook testing</h1>
-<h2> This is a second check to webhook working!!!</h2>
+<h3>The web app form is deployed to docker container on Dockerhub and ran container push to tomcat web server which hosts the web site.</h3>
+
 
 
 <html>
