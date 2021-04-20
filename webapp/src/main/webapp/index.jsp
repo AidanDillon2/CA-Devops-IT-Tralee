@@ -7,13 +7,13 @@
 
 <html>
     <head>
-        <title>JSP Form Demo</title>
+        <title>CA Devops assignment/title>
         <style type="text/css">
             label{ margin-right:20px;}
             input{ margin-top:5px;}
         </style>
     </head>
-    <body background="Munster_Technological_University_Logo,_2021.jpg">
+    <body background="Munster_Technological_University_Logo,_2021.jpg" no-repeat center fixed;>
         <form action="handleUserInfo.jsp" method="post">
             <fieldset>
                 <legend>User Information</legend>
