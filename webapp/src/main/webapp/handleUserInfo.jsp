@@ -2,7 +2,7 @@
     <head>
         <title>CA Devops project</title>
     </head>
-    <body>
+    <body style="background-color: lightblue;">
         <%
             String firstName = request.getParameter("firstName");
             String lastName = request.getParameter("lastName");
