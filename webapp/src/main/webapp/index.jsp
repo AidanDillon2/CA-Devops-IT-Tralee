@@ -2,6 +2,7 @@
 <h2> This is a validation of the CI\CD process using a simple web form.</h2>
 
 <h3>The web app form is deployed to docker container on Dockerhub and container is pull from dockerhub to a tomcat web server which hosts the web site.</h3>
+<h1>checking if updates are going</h1>
 
 
 
