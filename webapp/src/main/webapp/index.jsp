@@ -24,7 +24,7 @@
                 <label for="lastName">Last Name</label>
                 <input type="text" name="lastName" /> <br/>
                 <label for="email">Email</label>
-                <input type="text" name="email" /> <i class="glyphicon glyphicon-envelope"></i> <br/>
+                <input type="text" name="email" /> <br/>
                 <input type="submit" value="submit">
             </fieldset>
         </form>
