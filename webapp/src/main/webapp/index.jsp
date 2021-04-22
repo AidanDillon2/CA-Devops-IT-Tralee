@@ -1,7 +1,7 @@
 <h1> Continuous assessment project for Devops module - IT Tralee\Munster Technological University.   </h1>
 <h2> This is a validation of the CI\CD process using a simple web form.</h2>
 
-<h3>The web app form is deployed to docker container on Dockerhub and container is pull from dockerhub to a tomcat web server which hosts the web site.</h3>
+<h3>The web application form is deployed to docker container on Dockerhub and container is pull from dockerhub to a tomcat web server which hosts the web site.</h3>
 
 
 
