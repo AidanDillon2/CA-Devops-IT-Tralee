@@ -4,7 +4,7 @@
 <h3>The web application is deployed on a docker container hosting latest Apache Tomcat web server image. </h3>
 
 
-<html>
+<!DOCTYPE html>
     <head>
         <title>CA devops assignment IT Tralee</title>
         <style type="text/css">
