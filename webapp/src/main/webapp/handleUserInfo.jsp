@@ -1,4 +1,4 @@
-<html>
+<!DOCTYPE xml:lang html>
     <head>
         <title>CA Devops project</title>
     </head>
