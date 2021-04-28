@@ -1,10 +1,10 @@
 <h1> Continuous assessment project for Devops module - IT Tralee\Munster Technological University.   </h1>
 <h2> This is a validation of the CI\CD process using a simple web form.</h2>
 
-<h3>The web application is deployed on a docker container hosting latest Apache Tomcat web server image and the web application with static code check done via SonaarQube and sonarcloud. </h3>
+<h3>The web application is deployed on a docker container hosting latest Apache Tomcat web server image and the web application with static code check done via SonarQube and sonarcloud. </h3>
 
 
-<!DOCTYPE xml:lang html>
+<html>
     <head>
         <title>CA devops assignment IT Tralee</title>
         <style type="text/css">
