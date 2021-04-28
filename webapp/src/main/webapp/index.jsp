@@ -4,7 +4,7 @@
 <h3>The web application is deployed in a docker container hosted on the docker hosted server. </h3>
 
 
-<html>
+<!DOCTYPE xml:lang html>
     <head>
         <title>CA devops assignment IT Tralee</title>
         <style type="text/css">
